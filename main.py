@@ -42,3 +42,5 @@ if x > y :
     print("you won against the bot")
 else:
     print("you lost against the bot")
+
+input("\n")
